@@ -2,4 +2,4 @@ import panda as pd
 import numpy as np 
 import matplotlib.pyplot as plt
 from sklearn.tree import decisiontree classifier
-from sklearn.ensemble import randomforestclassifier
+from sklearn.ensemble import randomforest classifier
